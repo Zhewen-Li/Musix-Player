@@ -1,0 +1,47 @@
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+# put *your* name and uid here
+name: Zhewen Li
+uid: u6437091
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets/pic: myFont1.ttf
+  - comment: the Font used in sketch
+    url: https://www.fontpalace.com/font-download/Harlow+Solid+Italic+Italic/
+    licence: free for individual use
+    
+    
+assets/pic: note1.png, note2.png, note3.png, note4.png
+  - comment: Graphic, cut and recolored with photoshop
+    url: https://www.pinterest.com.au/pin/389209592767956831/
+    licence: free for individual use
+
+assets/pic: note5.png
+  - comment: Graphic, cut and recolored with photoshop
+    url: http://699pic.com/tupian-400036333.html  
+    licence: free for individual use
+
+assets/pic: ins.png
+  - comment: Graphic, cut and recolored with photoshop
+    url: http://www.88tph.com/sucai/12476544.html  
+    licence: free for individual use    
+
+assets/pic: operation.png
+  - comment: Drum graphic recolored and organized with photoshop
+    url: https://www.wikihow.com/Read-Drum-Tabs#/Image:Read-Drum-Tabs-Step-1-Version-8.jpg
+    licence: https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+assets/music: Keepsake.mp3, Little.mp3, Morning.mp3;
+  - comment: Music
+    url: http://www.aigei.com/music/
+    licence: free for personal use    
+
+assets/drum: BassHit.mp3, Block.mp3, Cymb.mp3, HardKick.mp3, Snar1.mp3, Snar2.mp3
+  - comment: Drum beats sound
+    url: http://www.aigei.com/music/
+    licence: free for personal use    
